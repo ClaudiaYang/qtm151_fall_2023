@@ -1,0 +1,12 @@
+
+Installation Directory: /Users/yangzhiyuan/Desktop/QTM-151
+Server Installation Directory: /Users/yangzhiyuan/Desktop/QTM-151
+Data Directory: /Users/yangzhiyuan/Desktop/QTM-151/SQL_data
+Database Port: 5432
+Database Superuser: postgres
+Operating System Account: postgres
+Database Service: postgresql-16
+Command Line Tools Installation Directory: /Users/yangzhiyuan/Desktop/QTM-151
+Installation Log: /tmp/install-postgresql.log
+===== Installation completed at: 2023-10-30(YYYY-MM-DD) - 16:22:00(HH:MM:SS) =====
+                            
